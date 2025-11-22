@@ -5,14 +5,6 @@ file = "config/craftpresence.json"
 hash = "3963b0d74e4b826439c67df2f6298b23f00fabbbbfad50e38434da180bf600d6"
 
 [[files]]
-file = "gitattributes.txt"
-hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
-
-[[files]]
-file = "gitignore.txt"
-hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
-
-[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "a43384e687c9e565588ade9b39be1dd58e6686b564275a1bace1fac8b7b84d5e"
 metafile = true
@@ -48,8 +40,9 @@ hash = "e8ad4c0b1a01858f6d653672472641f24aeacf7d6fb3b63a4358157312381a76"
 metafile = true
 
 [[files]]
-file = "mods/kotlinforforge-5.10.0-all.jar"
-hash = "3f6e1d0e34c86e62abce3a9f86764a6861a2101aaa8858ada9d81f4588336efe"
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
+metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
@@ -70,7 +63,3 @@ metafile = true
 file = "mods/unilib.pw.toml"
 hash = "ad155d9399b4a32e64770845f5561f996bde246ccc5eaf47fb5909e3114a7a13"
 metafile = true
-
-[[files]]
-file = "packwizignore.txt"
-hash = "7adfaf00b7a3df0ded9e78c38675aef1e2f941a6d14b1b72ad57300534a06a7d"
