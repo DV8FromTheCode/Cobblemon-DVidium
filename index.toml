@@ -1,0 +1,76 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/craftpresence.json"
+hash = "3963b0d74e4b826439c67df2f6298b23f00fabbbbfad50e38434da180bf600d6"
+
+[[files]]
+file = "gitattributes.txt"
+hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
+
+[[files]]
+file = "gitignore.txt"
+hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "a43384e687c9e565588ade9b39be1dd58e6686b564275a1bace1fac8b7b84d5e"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "86bac59fee1311512fc22e29a5b0f80ea6a5f3ddfafe739dba66bf2337da25fe"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "c40944d53753ca0c91b7ef0d61be499bec8b3cae917a31f33553d1deb8715593"
+metafile = true
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "2e67c20c8e08ee6acb2b3c26c08a44958d9886bd213c41710e957739e9be4d48"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "9d39f6641ffe59deeeb9087a6d18cb6e13100790fae9bb960361e625d63cf90b"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "6367564b38a76a2b6b15be73b8e185b4f003992208c922b59393299d41945e91"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "e8ad4c0b1a01858f6d653672472641f24aeacf7d6fb3b63a4358157312381a76"
+metafile = true
+
+[[files]]
+file = "mods/kotlinforforge-5.10.0-all.jar"
+hash = "3f6e1d0e34c86e62abce3a9f86764a6861a2101aaa8858ada9d81f4588336efe"
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "682c0d78b4656d0db0a7fc83c97fc8d6a6fb67d7e55d77b2d90924c1096a80f5"
+metafile = true
+
+[[files]]
+file = "mods/spiffyhud.pw.toml"
+hash = "80821e87cc2e544992b1d0683c07df7152d765ef717247be9fcf53d02d77ae57"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "ad155d9399b4a32e64770845f5561f996bde246ccc5eaf47fb5909e3114a7a13"
+metafile = true
+
+[[files]]
+file = "packwizignore.txt"
+hash = "7adfaf00b7a3df0ded9e78c38675aef1e2f941a6d14b1b72ad57300534a06a7d"

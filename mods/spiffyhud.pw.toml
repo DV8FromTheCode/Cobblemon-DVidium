@@ -1,0 +1,13 @@
+name = "SpiffyHUD"
+filename = "spiffyhud_neoforge_3.1.0_MC_1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac1793136e767a524d1006b3666bd18317cf2afc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7248396
+project-id = 483885

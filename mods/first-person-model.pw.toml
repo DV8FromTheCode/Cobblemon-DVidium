@@ -1,0 +1,13 @@
+name = "First-person Model"
+filename = "firstperson-neoforge-2.6.0-mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0144f164e48a809366662af23aa8f8b86a26cf05"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7221862
+project-id = 333287

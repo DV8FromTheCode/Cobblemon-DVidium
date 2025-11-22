@@ -1,0 +1,13 @@
+name = "Cobblemon DVidium"
+author = "DV8FromTheCode"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7c20b859b827318ac5f565b842085e73c0dd1925f70a9c46075d2bb1ed071fc4"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.215"
