@@ -1,13 +1,13 @@
 name = "First-person Model"
 filename = "firstperson-neoforge-2.6.0-mc1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "0144f164e48a809366662af23aa8f8b86a26cf05"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/3wFjrwHr/firstperson-neoforge-2.6.0-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "b485fea150fedef32d873f0de623203ec76bef34bf7f56ecb636a2bb70ceec403dc61a7a170233a3a4f08e52564eb89669b6d5d74914507ab22d4007115d5fae"
 
 [update]
-[update.curseforge]
-file-id = 7221862
-project-id = 333287
+[update.modrinth]
+mod-id = "H5XMjpHi"
+version = "3wFjrwHr"

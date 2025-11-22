@@ -39,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "6367564b38a76a2b6b15be73b8e185b4f003992208c922b59393299d41945e91"
+hash = "fb02d93a5b4e7cfafafe3f33676e6ba88878509cdf67bec1f9e6b5ccae6c2118"
 metafile = true
 
 [[files]]
@@ -58,7 +58,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "682c0d78b4656d0db0a7fc83c97fc8d6a6fb67d7e55d77b2d90924c1096a80f5"
+hash = "99813592c09351cb6340d8519d919e0d2d0b2f8073c3fe6833e7d846616bf5f2"
 metafile = true
 
 [[files]]
